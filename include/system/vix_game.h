@@ -6,8 +6,11 @@
 class VIX_API Game
 {
 
+public:
 	Game();
 	~Game();
+
+
 };
 
 
